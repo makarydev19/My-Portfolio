@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-textblack: #000000;
+  --color-textwhite: #ffffff;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
