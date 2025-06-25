@@ -6,7 +6,7 @@ module.exports = {
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:tailwindcss/recommended',
-    'prettier'
+    'prettier',
   ],
   settings: {
     tailwindcss: {
@@ -15,6 +15,6 @@ module.exports = {
   },
   rules: {
     '@next/next/no-html-link-for-pages': 'off',
-    'react/no-unescaped-entities': 'off'
-  }
+    'react/no-unescaped-entities': 'off',
+  },
 };

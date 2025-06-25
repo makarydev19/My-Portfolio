@@ -1,0 +1,6 @@
+export { default as Hero } from './Hero'
+export { default as Skills } from './SkillsSection'
+export { default as About } from './AboutSection'
+export { default as Projects } from './ProjectsSection'
+export { default as Services } from './ServicesSection'
+export { default as Contact } from './ContactSection'
